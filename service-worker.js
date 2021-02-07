@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7ebbf8a13620b78d12e8a68818c205b9.js"
+  "/precache-manifest.11fccbeed012d9e918cff89bbcff6cfa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "miniministry"});
